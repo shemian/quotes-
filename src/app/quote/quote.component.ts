@@ -17,36 +17,42 @@ export class QuoteComponent implements OnInit {
       1,
       "Posted by Abdi mustafah",
       "There is no true Liberation, without the liberation of a woman",
+      "submited by K.daniel",
       new Date(2002, 4, 1)
     ),
     new Quote(
       2,
       "Posted by Steve Jobs",
       "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+      "submited by mahamed stifah",
       new Date(2003, 4, 1)
     ),
     new Quote(
       3,
       "Posted by JWinston Churchill",
       "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+      "submited by john mark",
       new Date(2010, 4, 1)
     ),
     new Quote(
       4,
       "Posted By Evans",
       "Pupper likes expensive snacks",
+      "submited by K.J.Evans",
       new Date(2020, 4, 1)
     ),
     new Quote(
       5,
       "Posted By john rebman",
       "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
+      "submited by K.D",
       new Date(2020, 4, 1)
     ),
     new Quote(
       6,
       "Posted by Will Rogers",
       "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "submited by Mash Hopes",
       new Date(2020, 4, 1)
     )
   ];
