@@ -23,7 +23,7 @@ export class QuoteComponent implements OnInit {
       2,
       "Posted by Steve Jobs",
       "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
-      new Date(2019, 4, 1)
+      new Date(2003, 4, 1)
     ),
     new Quote(
       3,
