@@ -15,7 +15,7 @@ export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
     new Quote(
       1,
-      "Posted by Abdifatah",
+      "Posted by Abdi mustafah",
       "There is no true Liberation, without the liberation of a woman",
       new Date(2002, 4, 1)
     ),
