@@ -16,17 +16,15 @@ export class QuoteComponent implements OnInit {
     new Quote(
       1,
       "Posted by Abdi mustafah",
-      "submited by K.daniel",
       "There is no true Liberation, without the liberation of a woman",
+      "submited by K.daniel",
       new Date(2002, 4, 1)
-      
     ),
     new Quote(
       2,
       "Posted by Steve Jobs",
-      "submited by mahamed stifah",
       "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
-      
+      "submited by mahamed stifah",
       new Date(2003, 4, 1)
     ),
     new Quote(
