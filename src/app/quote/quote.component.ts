@@ -29,7 +29,7 @@ export class QuoteComponent implements OnInit {
       3,
       "Posted by JWinston Churchill",
       "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
-      new Date(2017, 4, 1)
+      new Date(2010, 4, 1)
     ),
     new Quote(
       4,
