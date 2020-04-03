@@ -39,7 +39,7 @@ export class QuoteComponent implements OnInit {
     ),
     new Quote(
       5,
-      "Posted By Unknown",
+      "Posted By john rebman",
       "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
       new Date(2020, 4, 1)
     ),
